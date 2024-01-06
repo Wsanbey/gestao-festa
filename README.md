@@ -35,13 +35,13 @@ Certifique-se de ter o [Java](https://www.oracle.com/java/technologies/javase-do
 1. Clone este repositório:
 
    ```bash
-   git clone https://seurepositorio.com/sua-aplicacao.git
+   git clone https://github.com/Wsanbey/gestao-festa.git
    ```
 
 2. Navegue até o diretório do projeto:
 
    ```bash
-   cd sua-aplicacao
+   cd festa\GestaoFestaApplication.java
    ```
 
 3. Execute a aplicação:
@@ -49,12 +49,22 @@ Certifique-se de ter o [Java](https://www.oracle.com/java/technologies/javase-do
    ```bash
    ./mvnw spring-boot:run
    ```
+   
+4. User cadastrados são ( com roles("USER") ): 
 
-4. Abra seu navegador e acesse [http://localhost:8080](http://localhost:8080).
+- **Usuário:** joao  
+- **Usuário:** alexandre  
+- **Usuário:** thiago
+- **Senha:** 
+  ```bash
+   123 
+   ``` 
+  
+4. Abra seu navegador e acesse [http://localhost:8080/convidados](http://localhost:8080/convidados).
 
 ### Contribuição
 
-Contribuições são bem-vindas! Se encontrar algum problema ou tiver sugestões de melhorias, por favor, abra uma [issue](https://github.com/seu-usuario/sua-aplicacao/issues).
+Contribuições são bem-vindas! Se encontrar algum problema ou tiver sugestões de melhorias, por favor, abra uma [issue](https://github.com/Wsanbey/gestao-festa.git).
 
 ### Licença
 
